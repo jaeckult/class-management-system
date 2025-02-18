@@ -46,5 +46,5 @@ A **Class Management System** that helps teachers and administrators manage clas
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/class-management-system.git
+   git clone https://github.com/jaeckult/class_management_system.git
    cd class-management-system
